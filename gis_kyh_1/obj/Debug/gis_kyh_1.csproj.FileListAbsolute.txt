@@ -1,0 +1,27 @@
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.exe.config
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.exe
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.pdb
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.csprojResolveAssemblyReference.cache
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.Properties.Resources.resources
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.csproj.GenerateResource.Cache
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.exe
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.pdb
+E:\Users\KYH\Documents\Visual Studio 2015\Projects\ComputerAidedCartography\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.mainForm.resources
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.exe.config
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.exe
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.pdb
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.exe
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.pdb
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.csprojResolveAssemblyReference.cache
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.mainForm.resources
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.Properties.Resources.resources
+C:\Users\aobo\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.csproj.GenerateResource.Cache
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.exe.config
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.exe
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.pdb
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.exe
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\bin\Debug\gis_kyh_1.pdb
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.csprojResolveAssemblyReference.cache
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.mainForm.resources
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.Properties.Resources.resources
+E:\Users\KYH\Desktop\gis_kyh_1\gis_kyh_1\obj\Debug\gis_kyh_1.csproj.GenerateResource.Cache
